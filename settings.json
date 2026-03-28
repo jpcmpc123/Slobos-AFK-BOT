@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Technoblade",
     "password": "",
-    "type": "offline"
+    "type": "microsoft"
   },
   "server": {
     "ip": "losminecrafters-auU2.aternos.me",
